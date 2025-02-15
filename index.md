@@ -5,15 +5,18 @@
 - Yiyan Support
 - Bing Search
 - Time greetting
+
 ## Future
 - [ ] Daily Hot
 - [ ] Github Auth
 - [ ] Mark Site
+
 ## Install
 - Fork this repo
 - Turn to settings page
 - Click "Pages"
 - Enable this opinion and set deploy from "main"
+
 ## Open Source License
 **MIT**
 
