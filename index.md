@@ -18,3 +18,6 @@
 **MIT**
 
 Copyright © WinterCat([awaidea](https://github.com/awaidea))
+
+
+[Get Started->](./getstarted)
